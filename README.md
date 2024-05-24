@@ -6,7 +6,7 @@
 
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
-[![Python](https://img.shields.io/badge/python-%23FFD43B.svg?style=for-the-badge&logo=python&logoColor=white)](https://www.python.org/)
+![Python](https://img.shields.io/badge/python-%23FFD000.svg?style=for-the-badge&logo=python&logoColor=white)
 
 ![Bootstrap](https://img.shields.io/badge/bootstrap-%23563D7C.svg?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
