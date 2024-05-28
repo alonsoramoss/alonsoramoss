@@ -1,4 +1,4 @@
-# Hola👋, soy desarrollador web
+# Hola👋, soy estudiante de Ingeniería de Software y Desarrollador Web Full Stack Junior
 
 ## Habilidades
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
