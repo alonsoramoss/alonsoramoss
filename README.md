@@ -1,7 +1,8 @@
 <h1 align="center">Hola, soy Alonso R👋</h1>
-<h4 align="center">
+
+<p align="center">
   <strong>Soy estudiante de Ingeniería de Software y Desarrollador Web Full Stack Junior.</strong>
-</h4>
+</p>
 
 <h2 align="center">Habilidades</h2> 
 
