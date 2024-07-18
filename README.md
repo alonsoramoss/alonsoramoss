@@ -1,6 +1,10 @@
-# Hola👋, soy estudiante de Ingeniería de Software y Desarrollador Web Full Stack Junior
+<h1 align="center">Hola, soy Alonso R👋</h1>
+<p align="center">
+  <strong>Soy estudiante de Ingeniería de Software y Desarrollador Web Full Stack Junior.</strong>
+</p>
 
 ## Habilidades
+
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white)
 ![Python](https://img.shields.io/badge/python-%23FFD000.svg?style=for-the-badge&logo=python&logoColor=white)
