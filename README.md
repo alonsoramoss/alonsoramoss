@@ -1,10 +1,10 @@
-<h1 align="center">Hola, soy Alonso R👋</h1>
+<h1 align="center">Hola! soy Alonso R👋</h1>
 
 <p align="center">
-  <strong>Soy estudiante de Ingeniería de Software y Desarrollador Web Full Stack Junior.</strong>
+  <strong>Estudiante de Ingeniería de Software y Desarrollador Full Stack</strong>
 </p>
 
-<h2 align="center">Habilidades</h2> 
+<h2 align="center">Habilidades</h2>
 
 <p align="center">
   <img src="https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
