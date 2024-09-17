@@ -33,16 +33,7 @@
   <img src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" alt=".NET" />
 </p>
 
-<h2 align="center">Sociales</h2>
-
-<p align="center">
-  <a href="mailto:jose.alonso.ramos.ramos@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
-  </a>
-  <a href="https://www.linkedin.com/in/josealonsoramosramos">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
-  </a>
-  <a href="https://alonsoramos.netlify.app">
-    <img src="https://img.shields.io/badge/website-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Sitio web" />
-  </a>
-</p>
+---
+  
+[![](https://visitcount.itsvg.in/api?id=alonsoramoss&icon=0&color=1)](https://visitcount.itsvg.in)
+  
