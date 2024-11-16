@@ -1,10 +1,10 @@
 <h1 align="center">¡Hola 👋! Soy Alonso</h1>
 
 <h3 align="center">
-  <strong>Estudiante de Ingeniería de Software y Desarrollador Full Stack</strong>
+  <b>Estudiante de Ingeniería de Software y Desarrollador Full Stack</b>
 </h3>
 
-## Habilidades
+## 💻 Tecnologías
 
 ### *Front-end*
 ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)
