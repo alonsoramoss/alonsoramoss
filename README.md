@@ -27,8 +27,3 @@
 ![C#](https://img.shields.io/badge/c%23-%239512ff.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
-
----
-  
-[![](https://visitcount.itsvg.in/api?id=alonsoramoss&icon=0&color=1)](https://visitcount.itsvg.in)
-  
