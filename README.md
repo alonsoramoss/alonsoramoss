@@ -1,4 +1,4 @@
-<h1 align="center">¡Hola 👋! Soy Alonso</h1>
+<h1 align="center">Hola, soy Alonso Ramos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
 
 <h3 align="center">
   <b>Estudiante de Ingeniería de Software y Desarrollador Full Stack</b>
@@ -27,3 +27,12 @@
 ![C#](https://img.shields.io/badge/c%23-%239512ff.svg?style=for-the-badge&logo=c-sharp&logoColor=white)
 ![.NET](https://img.shields.io/badge/.NET-%23512BD4.svg?style=for-the-badge&logo=.net&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=black)
+
+
+<p align="center">
+	<picture>
+		  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alonsoramoss/alonsoramoss/output/github-contribution-grid-snake-dark.svg">
+		  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/alonsoramoss/alonsoramoss/output/github-contribution-grid-snake.svg">
+		  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/alonsoramoss/alonsoramoss/output/github-contribution-grid-snake.svg">
+	</picture>
+</p>
