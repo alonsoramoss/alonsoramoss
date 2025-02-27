@@ -1,8 +1,6 @@
-<h1 align="center">Hola, soy Alonso Ramos <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="35"></h1>
-
-<h3 align="center">
-  <b>Estudiante de Ingeniería de Software y Desarrollador Full Stack</b>
-</h3>
+<div align="center">
+	<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%237AF79A&size=50&center=true&vCenter=true&height=70&width=1000&lines=Hola!+soy+Alonso+Ramos;Estudiante+de+Ingeniería+de+Software;Desarrollador+Full+Stack;Bienvenid@+a+mi+perfil!" alt="Alonso Ramos"></img>
+</div>
 
 ## 💻 Tecnologías
 
@@ -33,7 +31,7 @@
 
 ### *Herramientas*
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)&nbsp;
-![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)&nbsp;
+![GitHub](https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white)&nbsp;
 ![XAMPP](https://img.shields.io/badge/Xampp-F37623?style=for-the-badge&logo=xampp&logoColor=white)&nbsp;
 ![Oracle SQL Developer](https://img.shields.io/badge/Oracle%20SQL%20Developer-F80000?style=for-the-badge&logo=oracle&logoColor=black)&nbsp;
 ![Swagger](https://img.shields.io/badge/-Swagger-%23Clojure?style=for-the-badge&logo=swagger&logoColor=white)&nbsp;
@@ -42,13 +40,13 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
 ##  🌐 Redes
-<a target="_blank" href="https://www.linkedin.com/in/josealonsoramosramos/"><img src="https://img.shields.io/badge/-LinkedIn-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"></img></a>&nbsp;
+<a href="https://www.linkedin.com/in/josealonsoramosramos/" target="_blank"><img src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></img></a>&nbsp;
 <a target="_blank" href="mailto:jose.alonso.ramos.ramos@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red"></img></a>&nbsp;
-<a href="https://alonsoramos.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%230A0A0A.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
+<a href="https://alonsoramos.netlify.app/"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=dev.to&logoColor=white"></a>
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=alonsoramoss&label=Profile%20views&color=12c300&style=for-the-badge&logo=star)
+![Profile Views](https://api.visitorbadge.io/api/visitors?path=https%3A%2F%2Fgithub.com%2Falonsoramoss&label=profile%20views&labelColor=%23555555&countColor=%2312c300)
 
 <p align="center">
 	<picture>
