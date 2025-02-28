@@ -2,7 +2,7 @@
 	<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%230afe9d&size=50&center=true&vCenter=true&height=70&width=1000&lines=Hola!+soy+Alonso+Ramos;Estudiante+de+Ingeniería+de+Software;Desarrollador+Full+Stack;Bienvenid@+a+mi+perfil!" alt="Alonso Ramos"></img>
 </div>
 
-## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="25"> Tecnologías
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> Tecnologías
 
 ### Frontend
 ![HTML](https://img.shields.io/badge/html-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
@@ -40,7 +40,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)&nbsp;
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white)&nbsp;
 
-## <img src="https://media.giphy.com/media/TEnXkcsHrP4YedChhA/giphy.gif" width ="25"> Contacto
+## <img src="https://media.giphy.com/media/lTRK8EYSTi9JsOCr6T/giphy.gif" width ="25"> Contacto
 
 <a href="https://www.linkedin.com/in/josealonsoramosramos/" target="_blank"><img src="https://raw.githubusercontent.com/UjwalKandi/UjwalKandi/changes-to-readme/svg/linkedin%20rect.svg"></img></a>&nbsp;
 <a target="_blank" href="mailto:jose.alonso.ramos.ramos@gmail.com"><img src="https://img.shields.io/badge/Gmail-white?style=for-the-badge&logo=gmail&logoColor=red"></img></a>&nbsp;
