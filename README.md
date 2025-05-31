@@ -1,5 +1,5 @@
 <div align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%230afe9d&size=50&center=true&vCenter=true&height=70&width=1000&lines=Hola!+soy+Alonso+Ramos;Estudiante+de+Ingeniería+de+Software;Desarrollador+Full+Stack;Bienvenid@+a+mi+perfil!" alt="Alonso Ramos"></img>
+	<img src="https://readme-typing-svg.herokuapp.com?font=Architects+Daughter&color=%230afe9d&size=50&center=true&vCenter=true&height=70&width=1000&lines=¡Hola!+soy+Alonso+Ramos;Estudiante+de+Ingeniería+de+Software;Desarrollador+Full+Stack" alt="Alonso Ramos"></img>
 </div>
 
 ## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width ="20"> Tecnologías
